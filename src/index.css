@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(221, 136, 136);
+  color: aliceblue;
+}
+
+.Card {
+  background-color: rgb(34, 194, 66);
+  font-style: italic;
+  font-size: 20px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.navbar
+{
+
+  background-color: rgb(111, 98, 81);
+
+}
